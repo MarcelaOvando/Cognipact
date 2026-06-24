@@ -16,8 +16,10 @@ Specifically, you will find:
 
 - Scripts to generate random parcellations and calculate the homogeneity scores.
 
+- Scripts to calculate within-between parcel FC.
+
 - Scripts to build the morphospace of white matter functional organization.
 
-- Scripts to relate cognitive terms to association and commissural terms.
+- Scripts to relate cognitive terms to association and commissural parcellations.
 
 All scripts include comments and instructions to facilitate replication and further exploration.
