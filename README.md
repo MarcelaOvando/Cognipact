@@ -18,4 +18,6 @@ Specifically, you will find:
 
 - Scripts to build the morphospace of white matter functional organization.
 
+- Scripts to relate cognitive terms to association and commissural terms.
+
 All scripts include comments and instructions to facilitate replication and further exploration.
